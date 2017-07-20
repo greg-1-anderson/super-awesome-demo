@@ -1,0 +1,14 @@
+uuid: d0cd0319-3ff2-4978-9722-b98e2fe0db19
+name: super-awesome-demo
+mail: greg.1.anderson@greenknowe.org
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
